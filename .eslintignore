@@ -1,0 +1,6 @@
+node_modules
+.idea
+.eslintcache
+.prettierrc.js
+src/index.html
+**/*.scss

@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "todo_h5",
+  "description": "一个h5的任务列表项目",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
